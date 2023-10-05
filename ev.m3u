@@ -43,18 +43,14 @@ https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 http://www.x-changer.org:80/FSWGK9ncck/XdVDhGtaCh/18079
 #EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr"tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png"group-title="HABER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8 
-#EXTINF:-1 tvg-name="AA Live"tvg-id="aalive.tr"tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png"group-title="HABER",AA Live
-http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="A Haber"tvg-id="Ahaber.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"group-title="HABER",A Haber
 https://ythls.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #EXTINF:-1 tvg-name="A Para"tvg-id="Apara.tr"tvg-logo="https://i.tmgrup.com.tr/apara/site/v1/i/logo-apara-new.png"group-title="HABER",A Para
 https://ythls.onrender.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
-#EXTINF:-1 tvg-name="A Spor"tvg-id="Aspor.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"group-title="SPOR",A Spor
+#EXTINF:-1 tvg-name="A Spor"tvg-id="Aspor.tr"tvg-logo="https://i.imgur.com/DbHSpAs.png"group-title="SPOR",A Spor
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-name="CNN Turk"tvg-id="CNNTurk.tr"tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png"group-title="HABER",CNN Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="Haber Turk"tvg-id="haberTurk.tr"tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png"group-title="HABER",Haber Turk
-http://www.x-changer.org:80/FSWGK9ncck/XdVDhGtaCh/15184
 #EXTINF:-1 tvg-name="Tele1"tvg-id="tele1.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png"group-title="HABER",Tele1
 https://ythls.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 #EXTINF:-1 tvg-name="Habertürk"tvg-id="Haberturk.tr"tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png"group-title="HABER",Habertürk

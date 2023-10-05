@@ -25,7 +25,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Teve2"tvg-id="Teve2.tr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png"group-title="ULUSAL",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT1.tr"tvg-logo="https://i.imgur.com/x2qU7KO.png"group-title="ULUSAL",TRT 1
+#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT1.tr"tvg-logo="https://i.imgur.com/T7m8yzY.png"group-title="ULUSAL",TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2"tvg-id="TRT2.tr"tvg-logo="https://i.imgur.com/h9Q88CW.png"group-title="ULUSAL",TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8

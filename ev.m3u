@@ -21,6 +21,8 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-name="Cine5"tvg-id="cine5.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png"group-title="ULUSAL",Cine5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/fBjBaNV.png"group-title="ULUSAL",Teleon
+https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8
 #EXTINF:-1 tvg-name="Teve2"tvg-id="Teve2.tr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png"group-title="ULUSAL",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT1.tr"tvg-logo="https://i.imgur.com/T7m8yzY.png"group-title="ULUSAL",TRT 1
@@ -49,6 +51,8 @@ https://ythls.onrender.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-name="CNN Turk"tvg-id="CNNTurk.tr"tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png"group-title="HABER",CNN Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/YlSAv8B.png"group-title="HABER",Sözcü Tv
+http://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 #EXTINF:-1 tvg-name="Tele1"tvg-id="tele1.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png"group-title="HABER",Tele1
 https://ythls.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 #EXTINF:-1 tvg-name="Habertürk"tvg-id="Haberturk.tr"tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png"group-title="HABER",Habertürk
@@ -71,6 +75,10 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-dLxVUxRkfy0/VplGqLOR-RI/AAAAAAAAN9Q/nyJtf--UVtU/s1600/galatasaraytv4.jpg"group-title="SPOR",GSTV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/27O8z3A.png"group-title="SPOR",TV 8.5
+https://bit.ly/TV8_5_SUPERSATFORUM?/playlist1080p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/3Ol7Gd2.jpg"group-title="SPOR",TJK Tv
+http://tjktv-live.tjk.org/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran.png"group-title="SPOR",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-SZ1oSYZkEGQ/Xsknq--njqI/AAAAAAAAYd0/lZ5ZgylNkps9GhZlE4Didpr1uRbfbt6twCLcBGAsYHQ/s1600/aposta.jpg"group-title="YEREL",ALANYA POSTA TV
@@ -79,6 +87,10 @@ https://win4.yayin.com.tr/postatv/postatv/playist.m3u8
 https://waw3.artiyerelmedya.net/astv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="684"tvg-id=""tvg-logo="http://4.bp.blogspot.com/-ekO8rYwFKlc/WIoN_g5v2cI/AAAAAAAAQqk/lTVBgn93QggNwa1_6ZCHn4oTUxlCJeaRwCLcB/s1600/cantv.jpg"group-title="YEREL",CAN TV
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/kLEkTrO.png"group-title="YEREL",Şaban TV
+http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://cine1.com.tr/images/main-dark-logo.png"group-title="YEREL",Cine 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-7JUvD_D1i0A/VqnHg5NwODI/AAAAAAAAPLo/ldxSONIdLMg/s1600/caytv.jpg"group-title="YEREL",ÇAY TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-VBFvcTD3wLY/VqnKIdk5l1I/AAAAAAAAPP4/nIcnwtkkCeY/s1600/haber61.jpg"group-title="YEREL",HABER 61 TV
